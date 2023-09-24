@@ -6,7 +6,7 @@ on:
     # Remove the line above to run when pushing to master
   pull_request:
     #Run it on details branch only
-    branches: "*"
+    branches: "*bigg*"
 
 jobs:
   build:
